@@ -16,7 +16,7 @@ function App() {
         </div>
       </nav>
 
-      <div className="w-full h-screen flex justify-center items-center pt-20 pb-24 md:pb-4">
+      <div className="w-full h-screen flex justify-center items-center pt-20 pb-11 md:pb-4">
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0UNOwbnQwDB3QdQSPKA2ZDipzrNxfFVRulv-mg6-pC_1WHg/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginwidth="0">Loading…</iframe>
       </div>
       {/* <div className="w-full h-screen"></div> */}
